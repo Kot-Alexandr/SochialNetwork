@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SochialNetwork/static/css/main.652be22c.css",
+    "main.js": "/SochialNetwork/static/js/main.a120e07b.js",
+    "static/css/993.638d613e.chunk.css": "/SochialNetwork/static/css/993.638d613e.chunk.css",
+    "static/js/993.6dcc76ee.chunk.js": "/SochialNetwork/static/js/993.6dcc76ee.chunk.js",
+    "static/css/528.17362c7d.chunk.css": "/SochialNetwork/static/css/528.17362c7d.chunk.css",
+    "static/js/528.39b4dd89.chunk.js": "/SochialNetwork/static/js/528.39b4dd89.chunk.js",
+    "static/media/BeanEater.svg": "/SochialNetwork/static/media/BeanEater.bfa1d8522a6bb7b5a6063a11b1117412.svg",
+    "index.html": "/SochialNetwork/index.html",
+    "main.652be22c.css.map": "/SochialNetwork/static/css/main.652be22c.css.map",
+    "main.a120e07b.js.map": "/SochialNetwork/static/js/main.a120e07b.js.map",
+    "993.638d613e.chunk.css.map": "/SochialNetwork/static/css/993.638d613e.chunk.css.map",
+    "993.6dcc76ee.chunk.js.map": "/SochialNetwork/static/js/993.6dcc76ee.chunk.js.map",
+    "528.17362c7d.chunk.css.map": "/SochialNetwork/static/css/528.17362c7d.chunk.css.map",
+    "528.39b4dd89.chunk.js.map": "/SochialNetwork/static/js/528.39b4dd89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.652be22c.css",
+    "static/js/main.a120e07b.js"
+  ]
+}
