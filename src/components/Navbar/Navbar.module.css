@@ -1,0 +1,45 @@
+.nav {
+  grid-area: n;
+  background-color: rgb(106, 212, 194);
+}
+
+.item {
+  color: white;
+}
+
+
+.item a.active {
+  color: gold;
+}
+
+.item a {
+  color: white;
+  text-decoration: none;
+}
+
+.friends {
+  margin-top: 30px;
+  margin-left: 75px;
+  color: hotpink;
+  display: flex;
+}
+
+.friendsname img {
+  width: 50px;
+  height: 50px;
+  border-radius: 30px;
+}
+
+.friendsname {
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.friendsother {
+  display: flex;
+  justify-content: space-between;
+}
